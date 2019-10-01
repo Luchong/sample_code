@@ -1,4 +1,4 @@
-# sample_code_CausalImpactPython
+# sample_code
 
 Sample Code.
 
